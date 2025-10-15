@@ -8,11 +8,20 @@
 </head>
 <body>
     <h1>Peliculas</h1>
-
+    <script>
+        let nombre = 'Juan';
+        alert(nombre);
+    </script>
     <?php
         // variables
         $nombre = "Jonathan";
         $logueado = true;
+
+
+
+
+
+
         // Array indexado numerico
         $peliculas = [
             'images/batalla.webp', 

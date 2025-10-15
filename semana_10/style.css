@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(26, 25, 25);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    color: slateblue;
+}
+
+.text-danger {
+    border: 1px solid salmon;
+    padding: 10px;
+    border-radius: 5px;
+}
+.card {
+    width: 200px;
+    border: 1px solid snow;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.card .pelicula {
+    width: 100%;
+}
